@@ -1,21 +1,30 @@
-This README would normally document whatever steps are necessary to get the application up and running.
+# <Tess mail>
 
-Things you may want to cover:
+## サイト概要
+<指定のアドレス宛にTessのアドレスからメールを送れるサイト>
 
-Ruby version
+### サイトテーマ
+<社会人や学生の内部告発など>
 
-System dependencies
+### テーマを選んだ理由
+<様々なトラブルで困ってる人やその事を知りながらも行動できずにいる人などに匿名のメールを使いスピーディーに告発できるような窓口を作成したかったため。
+　他にも匿名メールというメリットを生かして様々な使い方ガイドを作成して利用していただきたい。>
 
-Configuration
+### ターゲットユーザ
+<ハラスメントやいじめ、不正行為など様々なトラブルで困っている方や、匿名でメールを送るたい方や、自分のメールアドレスを使いたくない方>
 
-Database creation
+### 主な利用シーン
+<トラブルを抱えている方が適切な窓口に匿名でメールを送りたい時、匿名メールを活用したい時>
 
-Database initialization
+## 設計書
+<...>
 
-How to run the test suite
+## チャレンジ要素一覧
+https://docs.google.com/spreadsheets/d/1f1ArNoMhBHRL0kH5QH-5AcZS6AvKiWaqlaGtbcdYqYg/edit?usp=sharing
 
-Services (job queues, cache servers, search engines, etc.)
-
-Deployment instructions
-
-...
+## 開発環境
+- OS：macOS Big Sur
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
